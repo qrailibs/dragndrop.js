@@ -1,4 +1,4 @@
-![dragndrop](https://via.placeholder.com/800x400/232424/0afc77?text=dragndrop) 
+![dragndrop](https://via.placeholder.com/800x400/232424/0afc77?text=dragndrop.js) 
 
 dragndrop.js is lightweight javascript micro-framework to create drag & drop functionality, Easy-to-use. 
 
